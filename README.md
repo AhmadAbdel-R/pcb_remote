@@ -1,17 +1,15 @@
 # pcb_remote
 
-Placeholder repository for remote PCB work.
+Reserved repo for a future standalone remote PCB line.
 
-## Current Purpose
-
-This repo is reserved for future standalone PCB remote work split from the larger hardware repository.
+Right now this is intentionally minimal and acts as a placeholder while active hardware work stays in `Drone_remote_hardware`.
 
 ## Planned Structure
 
-- `hardware/` for KiCad sources
-- `production/` for manufacturing exports
-- `docs/` for revision notes and bring-up logs
+- `hardware/` KiCad sources
+- `production/` manufacturing outputs
+- `docs/` revision notes and bring-up logs
 
-## Next Step
+## Next Action
 
-Import or create the first board revision and document it here.
+Add first board revision and define requirements at the top of the repo.
